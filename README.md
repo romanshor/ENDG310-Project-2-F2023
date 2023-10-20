@@ -1,1 +1,6 @@
-# ENDG310-Project-2-F2023
+# ENDG 310
+## Project 2 - Simulations
+
+Team members:
+
+Project Description
